@@ -1,0 +1,6 @@
+hostname: 165.227.173.200
+database: postgres
+port: 5432
+pool: 64
+username: postgres
+password: fastgps
